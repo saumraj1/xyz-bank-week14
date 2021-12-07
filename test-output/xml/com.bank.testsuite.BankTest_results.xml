@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.899">
+  <properties />
+  
+  
+            <testcase name="bankManagerShouldAddCustomerSuccessfully" time="1.899" classname="com.bank.testsuite.BankTest" />
+      
+</testsuite>
